@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {"name":"CRUSH","controls":[
+      {"param":"Bits","widget":"knob"},
+      {"param":"Sample Rate","widget":"knob"},
+      {"param":"Drive","widget":"knob"},
+      {"param":"Filter","widget":"knob"}
+    ]},
+    {"name":"SHAPE","controls":[
+      {"param":"Resonance","widget":"knob"},
+      {"param":"Jitter","widget":"knob"},
+      {"param":"Mix","widget":"knob"},
+      {"param":"Output","widget":"knob","polarity":"bipolar"}
+    ]}
+  ],
+  "style":{"background":"ff10131c","accent":"ff13e6ec","text":"fff2f7ff","muted":"ffb78cdb"},
+  "knobImage":"FASTG_knob_strip.png",
+  "knobFrames":127
+}
