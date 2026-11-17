@@ -1,0 +1,18 @@
+
+{
+  "name": "FAST G BITCRUSHER",
+  "manufacturer": "FAST G STUDIOS",
+  "version": "1.0.0",
+  "format": "vst2",
+  "kind": "effect",
+  "uid": "FGB1",
+  "numInputs": 2,
+  "numOutputs": 2,
+  "category": "Effect",
+  "file32": "VST/fastg-bitcrusher-arm32.so",
+  "file64": "VST/fastg-bitcrusher-arm64.so",
+  "description": "FAST G BITCRUSHER - VICTORY EDITION. Stereo bitcrusher with 8 controls for dub techno and electronic music.",
+  "author": "FAST G STUDIOS",
+  "url": "",
+  "license": "MIT"
+}
