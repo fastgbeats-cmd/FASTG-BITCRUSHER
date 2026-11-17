@@ -14,6 +14,6 @@
     ]}
   ],
   "style":{"background":"ff10131c","accent":"ff13e6ec","text":"fff2f7ff","muted":"ffb78cdb"},
-  "knobImage":"FASTG_knob_strip.png",
-  "knobFrames":127
+  "knobImage":"FASTG_VICTORY_KNOBS_112.png",
+  "knobFrames":112
 }
